@@ -209,7 +209,7 @@ Dans notre cas, pour neovim, ce sera `~/.config/nvim/init.vim`
 
 C'est ici que l'on peut configurer vim
 
-Pour plus d'informations sur ces configurations, vous avez mes [dotfiles](https://github.com/Curs3W4ll/Dotfiles) à disposition qui vous expliquent tous comme il faut
+Pour plus d'informations sur ces configurations, vous avez mes [dotfiles](https://github.com/corthx/Dotfiles) à disposition qui vous expliquent tous comme il faut
 
 ## Comment faire de vim un vrai IDE en utilisant des plugins
 
@@ -469,7 +469,7 @@ Cependant, il est nécessaire de passer du temps sur sa configuration pour qu'il
 
 Si vous voulez vous documenter un peu plus sur vim et sur les plugins que je viens de vous montrer
 
-Voici le lien de mes [Dotfiles](https://github.com/Curs3W4ll/Dotfiles) (ils contiennent de la doc sur les plugins)
+Voici le lien de mes [Dotfiles](https://github.com/corthx/Dotfiles) (ils contiennent de la doc sur les plugins)
 
 ## Maintenant, la pratique !
 
